@@ -11,7 +11,7 @@
 
 📈 Projects
 🔹 [Predicting Alloy Properties](https://github.com/yourusername/project-link) — Gaussian Process regression for material design  
-🔹 [Chess Game (Python)](https://github.com/yourusername/chess-game) — Built a classic chess game using Python  
+🔹 [Chess Game (Python)](https://github.com/hariharan-s-30/Chess-Game/tree/main) — Built a classic chess game using Python  
 
 
 🌱 Currently Learning

@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Hariharan S!
 
-<!--
-**hariharan-s-30/hariharan-s-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Data Scientist & AI Enthusiast  
+💡 Passionate about Python, Machine Learning, and Deep Learning  
+🚀 Currently exploring AI projects and real-world data applications  
 
-Here are some ideas to get you started:
+ 🧠 Skills
+ **Languages:** Python, SQL  
+ **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn  
+ **Areas of Interest:** Machine Learning, Deep Learning, Data Analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Projects
+🔹 [Predicting Alloy Properties](https://github.com/yourusername/project-link) — Gaussian Process regression for material design  
+🔹 [Chess Game (Python)](https://github.com/yourusername/chess-game) — Built a classic chess game using Python  
+
+
+🌱 Currently Learning
+    Deep Learning architectures (CNN, RNN, ANN)
+    Data visualization and storytelling  
+
+ 📫 Connect with Me
+📧 [Gmail](mailto:hariharansivakumar30@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/hariharan-s-b7ab7b269/)  
+🐍 [GitHub](https://github.com/hariharan-s-30)
+
+⭐️ *"Keep learning, keep building — growth happens step by step!"*

@@ -14,7 +14,7 @@
 ---
 
 ### 📈 Projects
-- 🔹 [Bangalore Uber Rides Analysis (Python)](https://github.com/yourusername/bangalore-uber-rides-analysis) — Cleaned, visualized, and summarized Uber ride data in Bangalore with CSVs, plots, and a PDF report   
+- 🔹 [Bangalore Uber Rides Analysis (Python)](https://github.com/hariharan-s-30/bangalore-uber-rides-analysis) — Cleaned, visualized, and summarized Uber ride data in Bangalore with CSVs, plots, and a PDF report   
 - 🔹 [Chess Game (Python)](https://github.com/hariharan-s-30/chess-game) — Built a classic chess game using Python  
 
 ---
